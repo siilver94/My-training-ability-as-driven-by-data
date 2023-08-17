@@ -1,4 +1,4 @@
-#  데이터로 보는 나의 운동능력(My-training-ability-as-driven-by-data)
+#  데이터로 보는 나의 운동능력(My training ability as driven by data)
 
 ## 소개
 
