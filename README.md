@@ -16,13 +16,13 @@
 
 ## 쌓을 데이터 목록
 
-- 날짜 - DateTime
-- 몸무게 - Weight(kg)
-- 1RM중량 - Squat, Sumo_Deadlift, OHP, Pendlay_Row
-- 휴식기간(얼마만에 그 부위를 하는지) - Rest_Period(day)
-- 운동 시간(오전/오후/저녘 : 0/1/2) - Workout_time : 06 ~ 12 : 1  /  12 ~ 18 : 2 /18 ~ 00  : 3
-- 운동 시최대심박수, 평균 심박수
-- 일일 섭취 칼로리
+- **날짜** - DateTime
+- **몸무게** - Weight(kg)
+- **1RM중량** - Squat, Sumo_Deadlift, OHP, Pendlay_Row
+- **휴식기간(얼마만에 그 부위를 하는지)** - Rest_Period(day)
+- **운동 시간** - Workout_time(오전/오후/저녘 : 0/1/2)
+- **운동 시최대심박수, 평균 심박수**
+- **일일 섭취 칼로리**
   
 <br/>
 
