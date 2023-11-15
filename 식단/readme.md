@@ -88,4 +88,14 @@
 
 *[다이어트 후 인바디]*
 
+<br/>
+
+## 식단 사진
+
+![image](https://github.com/siilver94/My-training-ability-as-driven-by-data/assets/57824945/3e559911-8a6b-4463-8cf6-3edd81fd3160)
+
+*[식단 사진]*
+
+<br/>
+
 기술 블로그 주소 : https://allensdatablog.tistory.com/manage/newpost/7?type=post&returnURL=https%3A%2F%2Fallensdatablog.tistory.com%2Fentry%2F%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%82%98%EC%9D%98-%EC%9A%B4%EB%8F%99%EB%8A%A5%EB%A0%A5-%EC%98%81%EC%96%91%EC%9A%B4%EB%8F%99-%EC%85%8B%ED%8C%85
