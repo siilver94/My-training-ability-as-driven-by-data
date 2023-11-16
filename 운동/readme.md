@@ -48,7 +48,6 @@ PHAT 프로그램에서 종목,휴식시간,세트수, 횟수 개인에 맞게 �
 
 추가로 nSuns5/3/1 기법을 추가하여 아래와 같이 1RM에 대한 중량 구간을 나눈 후 주 별로 다르게 운동
 
-![image](https://github.com/siilver94/My-training-ability-as-driven-by-data/assets/57824945/3844708d-de39-4c61-9454-7e3906332229)
+![크기변환 20231116_154558](https://github.com/siilver94/My-training-ability-as-driven-by-data/assets/57824945/5e1e6daa-e89f-4db1-8136-32425fa709f2)
 
-
-![image](https://github.com/siilver94/My-training-ability-as-driven-by-data/assets/57824945/f6d68968-ea4a-436c-911a-7bb19171e1de)
+![크기변환 20231116_154458](https://github.com/siilver94/My-training-ability-as-driven-by-data/assets/57824945/29f3f176-5762-4d85-8d28-646588b9399f)
