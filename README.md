@@ -4,7 +4,7 @@
 
 ## 프로젝트 소개
 
-직무 전환을 위해 다양한 데이터를 다루며 포트폴리오를 만들어 보는 과정에서, [부트캠프](https://github.com/siilver94/Stock-data-collection-analysis-and-visualization)와 [공모전](https://github.com/siilver94/Stock-investment-automation) 의 데이터 과제와 [공공 데이터 포털](https://github.com/siilver94/get-forecast-from-open-api)의 데이터를 가지고 여러 분석 과제를 진행해 보았습니다.
+직무 전환을 위해 다양한 데이터를 다루며 포트폴리오를 만들어 보는 과정에서, [부트캠프](https://github.com/siilver94/Stock-data-collection-analysis-and-visualization)와 [공모전](https://github.com/siilver94/Stock-investment-automation) 의 데이터 과제와 [공공 데이터 포털](https://github.com/siilver94/csv-data-analysis)의 데이터를 가지고 여러 분석 과제를 진행해 보았습니다.
 또한, [데이콘](https://github.com/siilver94/Customer-Gender-Prediction)과 [캐글](https://github.com/siilver94/Analysis-for-Opening-a-Bakery/tree/main)에서 다양한 데이터를 활용하여 데이터 분석, 모델링, 그리고 머신러닝을 진행했습니다.
 
 이런 경험을 통해 많은 것을 배우고 데이터 분석가로 성장하는 듯하였지만, 주변을 보니 비슷한 프로세스를 따르는 사람이 많다는 것을 깨달았습니다. 그리하여 말 그대로 나만의 프로젝트가 필요함을 느꼈습니다.
