@@ -1,17 +1,21 @@
 ## 데이터 목록
 
-- 날짜 - DateTime
-- 몸무게 - Weight(kg)
-- 1RM중량 - Squat, Sumo_Deadlift, OHP, Pendlay_Row
-- 휴식기간(얼마만에 그 부위를 하는지) - Rest_Period(day)
-- 운동 시간 - Workout_time(오전/오후/저녘 : 0/1/2)
+<br/>
 
+
+- **DateTime** : 날짜  
+- **Weight(kg)** : 체중 
+- **Squat, Sumo_Deadlift, OHP, Pendlay_Row** : 5대 운동 1RM 중량
+- **Rest_Period(day)** : 휴식 기간(몇일만에 측정을 하는지)
+- **Workout_time** : 운동 시간(오전/오후/저녁 : 0/1/2)
+
+<br/>
 
 ---
 
 <br/>
 
-### 연관성이 아예 없거나 신뢰성이 떨어지는 데이터는 삭제함
+### 상관분석을 통해 종속변수(1RM)와 상관성이 낮은 변수와 신뢰성이 떨어지는 변수는 제거.
 #### 삭제 목록
 
 - <s>운동 시 최대심박수, 평균 심박수</s>
