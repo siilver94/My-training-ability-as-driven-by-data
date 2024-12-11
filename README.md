@@ -2,6 +2,11 @@
 
 <br/>
 
+<code><img height = "350"
+src = https://github.com/user-attachments/assets/108aa2c9-0cd2-4c5c-8f8a-a211e553bf6a></code>
+
+<br/>
+
 ## 프로젝트 소개
 
 데이터 분석 역량을 키우기 위해 [부트캠프](https://github.com/siilver94/Stock-data-collection-analysis-and-visualization)와 [공모전](https://github.com/siilver94/Stock-investment-automation) 의 데이터 과제와 [공공 데이터 포털](https://github.com/siilver94/csv-data-analysis)에서 여러 분석 과제를 진행해 보았습니다.
@@ -18,7 +23,8 @@
 저는 평소 헬스를 매우 좋아했고 운동 종목 중 스쿼트에 진심이었습니다. 저는 더 무거운 중량을 들기 위해 많은 정보를 찾아보고 다양한 시도를 해 보았습니다. 하지만 찾은 수많은 정보들이 일치 하지 않는 경우도 많았고, 실제로 운동을 할 때 예상보다 수월하게 무게를 들었고, 때로는 컨디션이 좋았지만 원하는 결과를 얻지 못한 적도 있었습니다.
 
 위와 같은 경험의 원인을 찾고 저의 스쿼트 중량을 증대시키기 위해 요소들을 직접 선정/수집 및 분석하여 스쿼트 *1RM 증량의 핵심 인사이트를 도출하였습니다.
-*1RM : 1회 들 수 있는 최대 중량
+
+*1RM : 1회 들 수 있는 최대 중량*
 
 
 
