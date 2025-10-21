@@ -1,4 +1,4 @@
-#  데이터가 가르쳐주는 파워업 플랜
+#  데이터가 가르쳐주는 파워업 플랜(My training ability as driven by data)
 
 <br/>
 
